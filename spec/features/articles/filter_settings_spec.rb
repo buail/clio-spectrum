@@ -77,7 +77,7 @@ describe 'Summon Search Option Filter Settings' do
     end
 
     fill_in 'q', with: $q
-    find('button.btn', text: Search).click
+    find('button.btn.basic_search_button').click
     # page.save_and_open_page # debug
     all('.index_toolbar.navbar').first.should have_text " of #{@result_count}"
     confirm_default_filter_settings

@@ -107,7 +107,9 @@ describe 'Switching between data-source', js: true do
     visit root_path
     # page.save_and_open_page # debug
     # terminal newline submits form
-    fill_in 'q', with: "test\n"
+    # fill_in 'q', with: "test\n"
+    fill_in 'q', with: "test"
+    find('#quicksearch_q').native.send_key(:Enter)
 
     page.should have_css('.result_set', count: 4)
     all('.result_set').each do |result_set|

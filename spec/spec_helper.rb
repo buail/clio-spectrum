@@ -18,6 +18,7 @@ require 'rubygems'
   require File.expand_path('../../config/environment', __FILE__)
   require 'rspec/rails'
   require 'capybara/rspec'
+  require 'capybara/poltergeist'
 
   # Requires supporting ruby files with custom matchers and macros, etc,
   # in spec/support/ and its subdirectories.
@@ -29,8 +30,9 @@ require 'rubygems'
     config.before(:each) { reset_email }
 
     # Specify an alternative JS driver if we want to avoid selinium
-    Capybara.javascript_driver = :webkit
+    # Capybara.javascript_driver = :webkit
     # Capybara.javascript_driver = :webkit_debug
+    Capybara.javascript_driver = :poltergeist
 
     # http://www.elabs.se/blog/60-introducing-capybara-2-1
     # But try to rewrite our specs so that we don't have to change

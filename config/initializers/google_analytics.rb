@@ -17,6 +17,10 @@ GoogleAnalytics.web_property_id = case Rails.env.to_s
   when 'clio_dev'
     'UA-28923110-4'
 
+  # Test needs an Id too, or it'll get JS errs
+  when 'test'
+    'UA-28923110-5'
+
   when 'development'
     'UA-28923110-5'
 

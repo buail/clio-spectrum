@@ -161,6 +161,7 @@ describe 'Catalog Interface' do
     click_link 'Display Options'
     click_link 'Compact View'
 
+    expect(page).to have_css('.result.document.boxed_search_results')
     all('.result.document').first.text.should_not match /Author/
     all('.result.document').first.text.should_not match /Published/
     all('.result.document').first.text.should_not match /Location/
@@ -168,6 +169,7 @@ describe 'Catalog Interface' do
     click_link 'Display Options'
     click_link 'Standard View'
 
+    expect(page).not_to have_css('.result.document.boxed_search_results')
     all('.result.document').first.text.should match /Author.*Published.*Location/
   end
 
