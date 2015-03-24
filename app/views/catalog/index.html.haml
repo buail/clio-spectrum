@@ -27,7 +27,7 @@
       -# Replace this partial call....
       -# = render 'document_list'
       -# ...with the content of the two-line partial.
-      #documents.scroll_memory{:data => {'ga-action' => 'Search Results Click'} }
+      #documents.scroll_memory{:data => {'ga-category' => "#{ga_category_for_search_results_click}"}}
         = render_document_list(@document_list, :action => "catalog")
       
 

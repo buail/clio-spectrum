@@ -158,4 +158,8 @@ module CulCatalogHelper
     return false
   end
 
+  def ga_category_for_search_results_click
+    @active_source ? "#{@active_source.split('_').map {|w| w.camelize}.join(" ")} Link" : 'Outbound Link'
+  end
+
 end

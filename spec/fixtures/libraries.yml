@@ -1,0 +1,607 @@
+---
+r1:
+  id: 1
+  hours_db_code: butler
+  name: Butler Library Service Hours
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=butler-reference\"
+    target=\"_top\">Butler Reference</a> | <a href=\"http://hours.library.columbia.edu/?library=butler-reserves\"
+    target=\"_top\">Butler Reserves</a> |  <a href=\"http://hours.library.columbia.edu/?library=lio\"
+    target=\"_top\">Library Information Office</a> | <a href=\"http://hours.library.columbia.edu/?library=butler-24\"
+    target=\"_top\">Butler 24-Hour Reading Rooms</a> </br> \r\n<font size=\"2\"> <strong>Food
+    may not be brought into Butler Library. Your cooperation is greatly appreciated.</strong>
+    </font> </br> \r\n<font> <strong>Reading rooms on floors 2, 3, and 4, are available
+    24/7 during the Fall and Spring semesters to current Columbia students, faculty
+    and staff only. See <a href=\"http://hours.library.columbia.edu/?library=butler-24\"
+    target=\"_top\">Butler 24-Hour Reading Rooms</a> for current hours.    </strong></font>
+    </br>"
+  url: http://library.columbia.edu/locations/butler.html
+  created_at: 2015-02-17 21:06:05.481225000 Z
+  updated_at: 2015-02-17 21:06:05.481225000 Z
+r2:
+  id: 2
+  hours_db_code: science-engineering-reference
+  name: Science & Enginering Library Reference
+  comment: Check hours for the <a href="http://hours.library.columbia.edu/?library=science"
+    target="_top">Science & Engineering Library</a>
+  url: http://library.columbia.edu/locations/science-library.html
+  created_at: 2015-02-17 21:06:05.765478000 Z
+  updated_at: 2015-02-17 21:06:05.765478000 Z
+r3:
+  id: 3
+  hours_db_code: avery
+  name: Avery Architectural & Fine Arts Library
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=avery-classics"
+    target="_top">Avery Classics Collection</a> | <a href="http://hours.library.columbia.edu/?library=avery-drawings-archives"
+    target="_top">Drawings & Archives</a> | <a href="http://hours.library.columbia.edu/?library=avery-reference"
+    target="_top">Walk-In Reference</a></b>
+  url: http://library.columbia.edu/locations/avery.html
+  created_at: 2015-02-17 21:06:05.771757000 Z
+  updated_at: 2015-02-17 21:06:05.771757000 Z
+r4:
+  id: 4
+  hours_db_code: barnard
+  name: Barnard College Library
+  comment: "These are the hours for the study areas and the book stacks.\r\n\r\nThe
+    Circulation/Reserves/Media Desk opens at 9am.\r\n\r\nBarnard librarians are available
+    in 208 Lehman Hall, via <a href=\"http://library.barnard.edu/contact/contact-us\">online
+    chat</a>, or by appointment, 9am to 6pm, Monday to Friday during the summer.  <a
+    href=\"http://library.barnard.edu/contact/contact-us\">Contact us</a> for help,
+    or to make an appointment for a consultation.\r\n\r\nCheck the <a href=\"http://library.barnard.edu/access/hours\"
+    target=_top>Barnard Library Website</a> for more information."
+  url: http://www.barnard.edu/library/
+  created_at: 2015-02-17 21:06:05.975446000 Z
+  updated_at: 2015-02-17 21:06:05.975446000 Z
+r5:
+  id: 5
+  hours_db_code: barnard-archives
+  name: Barnard Archives and Special Collections
+  comment: "These are the hours for the study areas and the book stacks.\r\n\r\nThe
+    Circulation/Reserves/Media Desk opens at 9am.\r\n\r\nBarnard librarians are available
+    in 208 Lehman Hall, via <a href=\"http://library.barnard.edu/contact/contact-us\">online
+    chat</a>, or by appointment, 9am to 6pm, Monday to Friday during the semester.
+    \ <a href=\"http://library.barnard.edu/contact/contact-us\">Contact us</a> for
+    help, or to make an appointment for a consultation.\r\n\r\nDuring Final Exams
+    (12/13/13 - 12/20/13), the study areas and the book stacks will be open 24 hours
+    a day. The service desks will continue to close at the regular times.\r\n\r\nCheck
+    the <a href=\"http://library.barnard.edu/access/hours\" target=_top>Barnard Library
+    Website</a> for more information."
+  url: http://www.barnard.edu/library/
+  created_at: 2015-02-17 21:06:06.305079000 Z
+  updated_at: 2015-02-17 21:06:06.305079000 Z
+r6:
+  id: 6
+  hours_db_code: burke
+  name: The Burke Library
+  comment: "<b>For help, email us any time at burke@library.columbia.edu or call during
+    open hours (212) 851-5606.</b>\r\n\r\n<b>Rare Books and Archives Hours by appointment
+    only: \r\nM-F 10am-1pm, 2pm-4:30pm, except when the library is closed for holidays.</b>"
+  url: http://library.columbia.edu/locations/burke.html
+  created_at: 2015-02-17 21:06:06.556359000 Z
+  updated_at: 2015-02-17 21:06:06.556359000 Z
+r7:
+  id: 7
+  hours_db_code: business
+  name: Business & Economics Library
+  comment: "<strong>General phone number: 212-854-7804</strong>\r\n\r\n<a href=\"http://hours.library.columbia.edu/?library=business-reference\"
+    target=\"_top\">Research help hours</a>"
+  url: http://library.columbia.edu/locations/business.html
+  created_at: 2015-02-17 21:06:06.736386000 Z
+  updated_at: 2015-02-17 21:06:06.736386000 Z
+r8:
+  id: 8
+  hours_db_code: butler-reference
+  name: Butler Library Reference Services
+  comment: "<strong>Ref Desk Phone: 212-854-2241</strong>\r\n<strong>DHC Phone: 212-854-7547</strong>\r\n\r\n<strong>AS
+    OF JANUARY 20 ALL BUTLER REFERENCE SERVICE WILL BE OFFERED IN THE DIGITAL HUMANITIES
+    CENTER (DHC)\r\n</strong>\r\n<strong>Digital Humanities Center, Butler 305\r\n\r\nFor
+    Butler building hours: <a href=\"http://hours.library.columbia.edu/?library=butler\"
+    target=\"_top\">Butler Library Service Hours</a> <font color=\"navy\">\r\n\r\nFor
+    other research options use our <a href=\"http://library.columbia.edu/services/askalibrarian.html\"
+    target=\"_top\">Ask a Librarian services.</a>"
+  url: http://library.columbia.edu/locations/butler-reference.html
+  created_at: 2015-02-17 21:06:06.947985000 Z
+  updated_at: 2015-02-17 21:06:06.947985000 Z
+r9:
+  id: 9
+  hours_db_code: science-engineering
+  name: Science & Engineering Library
+  comment: "The Science & Engineering Library is the home of the <b>Digital Science
+    Center</b>.\r\n\r\n\r\n\r\nVisit us or call 212-851-2950 during the hours below.
+    \ For reference help, email us any time at ref-sci@columbia.edu, or <a href=\"http://library.columbia.edu/services/askalibrarian.html\">chat</a>
+    with a librarian."
+  url: http://library.columbia.edu/locations/science-library.html
+  created_at: 2015-02-17 21:06:07.161501000 Z
+  updated_at: 2015-02-17 21:06:07.161501000 Z
+r10:
+  id: 10
+  hours_db_code: dssc-data
+  name: Digital Social Science Center (DSSC) Data Service
+  comment: "Phone assistance from Digital Social Science Center <strong>Data Service</strong>
+    \ (212-854-6012) is available only during the open hours posted here.\r\n\r\nOutside
+    of these lab hours, send email to <a href=\"mailto:dssc.data@columbia.edu\">dssc.data@columbia.edu</a>.
+    \ \r\n\r\nThe <strong>DSSC Data Service</strong> is located in <a href=\"http://library.columbia.edu/locations/lehman.html\"
+    target=\"_top\">Lehman Library</a>, in the International Affairs Building.\r\n<p>&nbsp;</p>"
+  url: http://library.columbia.edu/locations/dssc/data/service.html
+  created_at: 2015-02-17 21:06:07.378853000 Z
+  updated_at: 2015-02-17 21:06:07.378853000 Z
+r11:
+  id: 11
+  hours_db_code: dhc
+  name: Digital Humanities Center
+  comment: "The Digital Humanities Center is located in Butler 305.\r\n\r\n<strong>BUTLER
+    REFERENCE SERVICE IS OFFERED AT THIS DESK FROM 11:00 TO 5:00 ON WEEKDAYS.</strong>\r\n\r\nPhone:
+    <strong>212-854-7547</strong>; call during open hours to reserve scanners and
+    digital video editing machines.\r\n\r\nCheck hours for <a href=\"http://hours.library.columbia.edu/?library=butler\"
+    target=\"_top\">Butler Library</a>"
+  url: http://library.columbia.edu/locations/dhc.html
+  created_at: 2015-02-17 21:06:07.387238000 Z
+  updated_at: 2015-02-17 21:06:07.387238000 Z
+r12:
+  id: 12
+  hours_db_code: engineering
+  name: Engineering Library (Monell)
+  comment: "Visit us or call 212-854-2976 during the hours below.  \r\n\r\nFor reference
+    help, email us any time at ref-sci@columbia.edu, or <a href=\"http://library.columbia.edu/services/askalibrarian.html\">chat</a>
+    with a librarian."
+  url: http://library.columbia.edu/locations/engineering.html
+  created_at: 2015-02-17 21:06:07.601010000 Z
+  updated_at: 2015-02-17 21:06:07.601010000 Z
+r13:
+  id: 13
+  hours_db_code: geology
+  name: Geology
+  comment: "Visit us or call 212-854-4713 during the hours below.  \r\n\r\nFor reference
+    help, email us any time at ref-sci@columbia.edu, or <a href=\"http://library.columbia.edu/services/askalibrarian.html\">chat</a>
+    with a librarian."
+  url: http://library.columbia.edu/locations/geology.html
+  created_at: 2015-02-17 21:06:07.619304000 Z
+  updated_at: 2015-02-17 21:06:07.619304000 Z
+r14:
+  id: 14
+  hours_db_code: geoscience
+  name: Geoscience Library
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=geology\"
+    target=\"_top\">Geology Library</a> <br>\r\n\r\n\r\n\r\nVisit us or call 845-365-8808
+    during the hours below.  \r\n\r\nFor reference help, email us any time at ref-sci@columbia.edu,
+    or <a href=\"http://library.columbia.edu/services/askalibrarian.html\">chat</a>
+    with a librarian."
+  url: http://library.columbia.edu/locations/geoscience.html
+  created_at: 2015-02-17 21:06:07.834530000 Z
+  updated_at: 2015-02-17 21:06:07.834530000 Z
+r15:
+  id: 15
+  hours_db_code: health-sciences
+  name: Health Sciences Library
+  comment: "Check hours for <a href=\"http://library.cumc.columbia.edu/reference\"
+    target=\"_top\">Walk-In Reference</a> ***HSL's stacks close 1 hour before the
+    library closes.***\r\n***Archives reading room hours are 9.15-4.45 Mon.-Fri.,
+    \     by appointment. Phone:(212)305-7931***"
+  url: http://library.cpmc.columbia.edu/hsl/
+  created_at: 2015-02-17 21:06:08.055091000 Z
+  updated_at: 2015-02-17 21:06:08.055091000 Z
+r16:
+  id: 16
+  hours_db_code: ill
+  name: Interlibrary Loan & Document Delivery
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=butler"
+    target="_top">Butler Library</a>
+  url: http://library.columbia.edu/find/request/ill.html
+  created_at: 2015-02-17 21:06:08.291223000 Z
+  updated_at: 2015-02-17 21:06:08.291223000 Z
+r17:
+  id: 17
+  hours_db_code: journalism
+  name: Journalism Library
+  comment: The Journalism Library is located in Room 204 of the Journalism building,
+    inside the Toni Stabile Student Center. To reach the library by phone, please
+    call (212) 854-0390. If you have a research question, please contact the Journalism
+    Librarian via email at journalism@libraries.cul.columbia.edu, or by phone at (212)
+    854-3916.
+  url: http://library.columbia.edu/locations/journalism.html
+  created_at: 2015-02-17 21:06:08.521656000 Z
+  updated_at: 2015-02-17 21:06:08.521656000 Z
+r18:
+  id: 18
+  hours_db_code: law
+  name: Law Library
+  comment: "<strong>â€¢Â Â <a href=\"http://www.law.columbia.edu/library/\" target=\"_top\"
+    title=\"Diamond Law Library\">Access the Law Library website</a></strong>\r\n\r\n<strong>â€¢Â Â Check
+    hours for <a href=\"http://hours.library.columbia.edu/?library=law-reference\"
+    target=\"_top\">Walk-In Reference</a></strong>\r\n\r\n<strong>â€¢Â Â Please note
+    that all Library services end ten minutes before closing, including Circulation
+    Desk.</strong><br />\r\n<!-- <font color=\"darkred\"><strong>Note: The Arthur
+    W. Diamond Law Library is operating with a restricted-access policy beginning
+    December 1, 2014 through December 17, 2014.</strong></font> -->"
+  url: http://www.law.columbia.edu/library/
+  created_at: 2015-02-17 21:06:08.749967000 Z
+  updated_at: 2015-02-17 21:06:08.749967000 Z
+r19:
+  id: 19
+  hours_db_code: lehman
+  name: Lehman Social Sciences Library
+  comment: "For a DSSC consultation, check the <a href=\"http://hours.library.columbia.edu/?library=dssc-reference\"
+    target=\"_top\">Digital Social Science Center Consulting Hours</a>.\r\nService
+    desks close fifteen minutes before library closing.\r\nJust a reminder service
+    desks will be closed Sunday-Thursday at 11:45PM and Friday & Saturday at 9:45PM
+    from 12/1-12/18 during study hall hours. It will remain  open as a study hall
+    space from 12/1-12/18 until 4AM, except 12/5 &6 from 10pm-2am."
+  url: http://library.columbia.edu/locations/lehman.html
+  created_at: 2015-02-17 21:06:08.998752000 Z
+  updated_at: 2015-02-17 21:06:08.998752000 Z
+r20:
+  id: 20
+  hours_db_code: lehman-suite
+  name: Social Work Library
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=social-work-studyhall"
+    target="_top">Social Work Library Study Hall</a><br><br>Visit us or call 212-851-2194
+    during the hours below, <a href="http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031"
+    target="_top">chat</a> with a librarian online, or ask us by <a href="http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031"
+    target="_top">email</a>.<br />
+  url: http://library.columbia.edu/locations/social-work.html
+  created_at: 2015-02-17 21:06:09.211334000 Z
+  updated_at: 2015-02-17 21:06:09.211334000 Z
+r21:
+  id: 21
+  hours_db_code: lio
+  name: Library Information Office
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/index.php?library=butler\"
+    target=\"_top\">Butler Library </a> | <a href=\"http://hours.library.columbia.edu/?library=butler-reference\"
+    target=\"_top\">Butler Reference</a> | <a href=\"http://hours.library.columbia.edu/?library=butler-reserves\"
+    target=\"_top\">Butler Reserves</a> | <a href=http://hours.library.columbia.edu/?library=butler-24
+    target=\"_top\">Milstein Reading Rooms</a> </br> \r\nInformation and policies
+    for <a href=\"http://library.columbia.edu/services/access.html\" target=\"top\">visitors</a>.
+    \ </br>\r\nContact Library Information Office staff at lio@columbia.edu or call
+    212-854-7309. \r\n<!--<font color=\"red\">Because of a system upgrade, on Friday,
+    February 14, library staff will not be to create photo ID cards for a two hour
+    period. Please call ahead at 212-854-7309 or send email to lio@columbia.edu</font>.
+    --> <strong>In order to create a photo ID card, we require a valid, government
+    issued photo ID card.</strong>"
+  url: http://library.columbia.edu/services/lio.html
+  created_at: 2015-02-17 21:06:09.219022000 Z
+  updated_at: 2015-02-17 21:06:09.219022000 Z
+r22:
+  id: 22
+  hours_db_code: math
+  name: Mathematics Library
+  comment: "Visit us or call 212-854-4712 during the hours below.  \r\n\r\nFor reference
+    help, email us any time at ref-sci@columbia.edu, or <a href=\"http://library.columbia.edu/services/askalibrarian.html\">chat</a>
+    with a librarian."
+  url: http://library.columbia.edu/locations/math.html
+  created_at: 2015-02-17 21:06:09.443241000 Z
+  updated_at: 2015-02-17 21:06:09.443241000 Z
+r23:
+  id: 23
+  hours_db_code: studio-butler
+  name: Studio @ Butler
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=butler"
+    target="_top">Butler Library</a> Â |Â  <a href="http://hours.library.columbia.edu/?library=butler-reserves"
+    target="_top">Butler Reserves</a>
+  url: http://library.columbia.edu/locations/butler/studio.html
+  created_at: 2015-02-17 21:06:09.656670000 Z
+  updated_at: 2015-02-17 21:06:09.656670000 Z
+r24:
+  id: 24
+  hours_db_code: butler-reserves
+  name: Butler Library Reserves
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=butler"
+    target="_top">Butler Library</a>
+  url: http://library.columbia.edu/locations/butler-reserves.html
+  created_at: 2015-02-17 21:06:09.663730000 Z
+  updated_at: 2015-02-17 21:06:09.663730000 Z
+r25:
+  id: 25
+  hours_db_code: music
+  name: Music & Arts Library (Wiener)
+  comment: "<b>Please note: not all Library services are available on weekends.</b>
+    Call 854-4711 for further information. Click <a href=\"http://hours.library.columbia.edu/?library=music-reference\"
+    target=\"_top\">here</a> to check reference hours."
+  url: http://library.columbia.edu/locations/music.html
+  created_at: 2015-02-17 21:06:09.882124000 Z
+  updated_at: 2015-02-17 21:06:09.882124000 Z
+r26:
+  id: 26
+  hours_db_code: rbml
+  name: Rare Book & Manuscript Library
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=butler"
+    target="_top">Butler Library</a>
+  url: http://library.columbia.edu/locations/rbml.html
+  created_at: 2015-02-17 21:06:10.116325000 Z
+  updated_at: 2015-02-17 21:06:10.116325000 Z
+r27:
+  id: 27
+  hours_db_code: social-work
+  name: Social Work Library
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=social-work-studyhall"
+    target="_top">Social Work Library Study Hall</a><br><br>Visit us or call 212-851-2194
+    during the hours below, <a href="http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031"
+    target="_top">chat</a> with a librarian online, or ask us by <a href="http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031"
+    target="_top">email</a>.<br />
+  url: http://library.columbia.edu/locations/social-work.html
+  created_at: 2015-02-17 21:06:10.328140000 Z
+  updated_at: 2015-02-17 21:06:10.328140000 Z
+r28:
+  id: 28
+  hours_db_code: eastasian
+  name: East Asian Library (Starr)
+  comment: 'Check hours for <a href="http://hours.library.columbia.edu/?library=eastasian-rb"
+    target="_top">Rare Books</a> | <a href="http://hours.library.columbia.edu/?library=eastasian-reference"
+    target="_top">Walk-In Reference</a> Note: Library hours are occasionally subject
+    to change. Please check regularly online for the latest information.'
+  url: http://library.columbia.edu/locations/eastasian.html
+  created_at: 2015-02-17 21:06:10.549843000 Z
+  updated_at: 2015-02-17 21:06:10.549843000 Z
+r29:
+  id: 29
+  hours_db_code: teachers-college
+  name: Teachers College
+  comment: "</br> </br>\r\nVisit us or call (212) 678-3494 during the hours below
+    -- or <a href=\"http://library.tc.columbia.edu/support.php?dq=generalq\" target=\"_top\">Ask
+    a Librarian Now!</a> \r\n\r\n</br> </br>"
+  url: http://www.tc-library.org/
+  created_at: 2015-02-17 21:06:10.644084000 Z
+  updated_at: 2015-02-17 21:06:10.644084000 Z
+r30:
+  id: 30
+  hours_db_code: cuarchives
+  name: Columbia University Archives
+  comment: "<p align=\"center\">No appointments are necessary, but for the most efficient
+    service, please call or email before visiting. \r\n<br>Telephone: (212) 854-3786;
+    Fax: (212) 854-1365; or <a href=\"mailto:cuarchives@columbia.edu\">email</a>.<br></p>"
+  url: http://library.columbia.edu/content/libraryweb/locations/cuarchives.html
+  created_at: 2015-02-17 21:06:10.876095000 Z
+  updated_at: 2015-02-17 21:06:10.876095000 Z
+r31:
+  id: 31
+  hours_db_code: social-work-studyhall
+  name: Social Work Library Study Hall
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=social-work"
+    target="_top">Social Work Library</a>
+  url: http://library.columbia.edu/locations/social-work.html
+  created_at: 2015-02-17 21:06:11.113791000 Z
+  updated_at: 2015-02-17 21:06:11.113791000 Z
+r32:
+  id: 32
+  hours_db_code: lehman-studyhall
+  name: Lehman Social Sciences Library Study Hall
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=lehman"
+    target="_top">Lehman Social Sciences Library</a>
+  url: ''
+  created_at: 2015-02-17 21:06:11.206299000 Z
+  updated_at: 2015-02-17 21:06:11.206299000 Z
+r33:
+  id: 33
+  hours_db_code: avery-classics
+  name: Avery Classics Collection
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=avery\"
+    target=\"_top\">Avery Library</a> | <a href=\"http://hours.library.columbia.edu/?library=avery-drawings-archives\"
+    target=\"_top\">Drawings & Archives</a> | <a href=\"http://hours.library.columbia.edu/?library=avery-reference\"
+    target=\"_top\">Walk-In Reference</a>\r\n<!--table border=\"0\" cellpadding=\"10\"
+    cellspacing=\"0\" align=\"center\"><tr><td style=\"border-style:solid; border-width:1px;
+    border-color:#2d2a62; color:#8b2323; text-align:center;\">CLASSICS COLLECTION\r\n<span
+    style=\"font-weight:bold;\">NOV. 10, 2008: Changes in Procedures and Hours</span><a
+    href=\"http://www.columbia.edu/cu/lweb/locations/avery/classics/Changes_11_2008.html\"
+    target=\"_top\" style=\"font-weight:bold;\">\r\nMore information...>></a></td></tr></table>-->\r\n\r\nRequests
+    must be received by 4:45pm of the preceding day. Request for offsite materials
+    must be received by 1:00 p.m.; usually delivered in 2 business days.\r\n\r\nCU
+    affiliates--submit <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0117\"
+    target=\"_top\">requests</a> online. \r\nNon-affiliates--email: avery-classics@libraries.cul.columbia.edu\r\n\r\nClassics
+    Cage requests by appointment with Curator of Classics. Email: avery-classics@libraries.cul.columbia.edu<b>"
+  url: ''
+  created_at: 2015-02-17 21:06:11.219945000 Z
+  updated_at: 2015-02-17 21:06:11.219945000 Z
+r34:
+  id: 34
+  hours_db_code: avery-drawings-archives
+  name: Avery Drawings & Archives
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=avery\"
+    target=\"_top\">Avery Library</a> | <a href=\"http://hours.library.columbia.edu/?library=avery-classics\"
+    target=\"_top\">Classics</a> | <a href=\"http://hours.library.columbia.edu/?library=avery-reference\"
+    target=\"_top\">Walk-In Reference</a>\r\n\r\nBy appointment only. Call 212-854-4110.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<!--<table
+    border=\"0\" cellpadding=\"10\" cellspacing=\"0\" align=\"center\"><tr><td style=\"border-style:solid;
+    border-width:1px; border-color:#2d2a62; color:#8b2323; text-align:center;\">DRAWINGS
+    & ARCHIVES DEPARTMENT\r\n<span style=\"font-weight:bold;\">Temporary Closure June
+    2 - 13, 2008</span><a href=\"http://library.columbia.edu/locations/avery/da.html\"
+    target=\"_top\" style=\"font-weight:bold;\">\r\nMore information...>></a></td></tr></table>-->"
+  url: ''
+  created_at: 2015-02-17 21:06:11.444869000 Z
+  updated_at: 2015-02-17 21:06:11.444869000 Z
+r35:
+  id: 35
+  hours_db_code: avery-reference
+  name: Avery Reference Services
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=avery\"
+    target=\"_top\">Avery Library</a> | <a href=\"http://hours.library.columbia.edu/?library=avery-classics\"
+    target=\"_top\">Classics</a> | <a href=\"http://hours.library.columbia.edu/?library=avery-drawings-archives\"
+    target=\"_top\">Drawings & Archives</a>\r\n<br />Visit us or call (212) 854-6199
+    during the hours below -- -- or ask us by <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">email</a> any time!\r\n\r\n<!--<table border=\"0\" cellpadding=\"10\"
+    cellspacing=\"0\" align=\"center\"><tr><td style=\"border-style:solid; border-width:1px;
+    border-color:#2d2a62; color:#8b2323; text-align:center;\">DRAWINGS & ARCHIVES
+    DEPARTMENT\r\n<span style=\"font-weight:bold;\">Temporary Closure May 21 - June
+    1, 2007</span><a href=\"http://library.columbia.edu/locations/avery/da.html\"
+    target=\"_top\" style=\"font-weight:bold;\">\r\nMore information...>></a></td></tr></table>-->"
+  url: ''
+  created_at: 2015-02-17 21:06:11.664052000 Z
+  updated_at: 2015-02-17 21:06:11.664052000 Z
+r36:
+  id: 36
+  hours_db_code: business-reference
+  name: Business & Economics Reference Services
+  comment: "<strong>Phone number: 212-854-7804 </strong>\r\n<ul>\r\n<li><a href=\"http://library.columbia.edu/locations/business/refservices.html\"
+    target=\"_top\">Additional research help options</a></li>\r\n<li><a href=\"http://hours.library.columbia.edu/?library=business\"
+    target=\"_top\">Hours for the Watson Library</a></li></ul>"
+  url: ''
+  created_at: 2015-02-17 21:06:11.900856000 Z
+  updated_at: 2015-02-17 21:06:11.900856000 Z
+r37:
+  id: 37
+  hours_db_code: butler-24
+  name: Butler Library 24-Hour Reading Rooms
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=butler\"
+    target=\"_top\">Butler Library Service Hours</a> <font color=\"navy\">\r\n\r\nOpen
+    to all during <a href=\"http://hours.library.columbia.edu/?library=butler\" target=\"_top\">Butler
+    Library Service Hours</a>; all other hours are limited to current students, faculty,
+    and staff of Columbia University and its affiliates.<font color=\"red\">\r\n\r\nDuring
+    24/7 hours, each of the 24-hour reading rooms will close for one hour for maintenance.
+    Room closures and other information about the reading rooms may be found <a href=\"http://library.columbia.edu/content/dam/libraryweb/libraries/butler/Guide%20to%20Butler%20Study%20Spaces.pdf\"
+    target=\"_top\">here</a>.</font>"
+  url: http://hours.library.columbia.edu/?library=butler-24
+  created_at: 2015-02-17 21:06:12.110285000 Z
+  updated_at: 2015-02-17 21:06:12.110285000 Z
+r38:
+  id: 38
+  hours_db_code: pmrr
+  name: Periodicals & Microforms Reading Room
+  comment: Check hours for <a href="http://hours.library.columbia.edu/?library=butler"
+    target="_top">Butler Library</a>. Visit the Periodicals and Microforms <a href="http://library.columbia.edu/locations/pmrr.html"
+    target="_top"> home page</a>.
+  url: http://library.columbia.edu/locations/pmrr.html
+  created_at: 2015-02-17 21:06:12.332735000 Z
+  updated_at: 2015-02-17 21:06:12.332735000 Z
+r39:
+  id: 39
+  hours_db_code: health-sciences-reference
+  name: Health Sciences Library Reference Services
+  comment: "Check hours for <a href=\\\"http://www.columbia.edu/cu/lweb/services/hours/index.html?library=health-sciences\\\"
+    target=\\\"_top\\\">Health Sciences Library</a>\n<br />Visit us or call (212)
+    305-3692 during the hours below, or ask us by <a href=\\\"mailto:hs-library@columbia.edu\\\"
+    target=\\\"_top\\\">email</a> any time! <b>Drop-in for classes on effective searching
+    in PubMed and the Ovid databases!</b>\r\n\r\n<i>Ovid (Medline/CINAHL)</i>:\r\nEvery
+    Tuesday, 12pm - 1pm\r\nEvery Thursday, 1pm - 2pm\r\n\r\n<i>PubMed</i>:\r\nEvery
+    Wednesday, 12pm - 1pm \r\n\r\nThere\\'s no need to call or sign-up prior to the
+    class. Just come in and let us know that you would like to participate."
+  url: http://library.cpmc.columbia.edu/hsl/reference.html
+  created_at: 2015-02-17 21:06:12.511885000 Z
+  updated_at: 2015-02-17 21:06:12.511885000 Z
+r40:
+  id: 40
+  hours_db_code: law-reference
+  name: Law Library Reference Services
+  comment: "<strong>â€¢  <a href=\"http://www.law.columbia.edu/library/\" target=\"_top\"
+    title=\"Diamond Law Library\">Access the Law Library website</a>\r\n\r\n<strong>â€¢
+    \ Check general open hours for the <a href=\"http://hours.library.columbia.edu/?library=law\"
+    target=\"_top\">Diamond Law Library</a></strong> <br>"
+  url: ''
+  created_at: 2015-02-17 21:06:12.520429000 Z
+  updated_at: 2015-02-17 21:06:12.520429000 Z
+r41:
+  id: 41
+  hours_db_code: dssc-reference
+  name: Digital Social Science Center (DSSC) Reference Ser
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=lehman\"
+    target=\"_top\">Lehman Social Sciences Library</a>.\r\n<br />Visit us or call
+    (212) 854-8043 during the hours below -- or <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">chat</a> with a librarian online -- or ask us by <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">email</a> any time!"
+  url: http://library.columbia.edu/locations/dssc.html
+  created_at: 2015-02-17 21:06:12.762570000 Z
+  updated_at: 2015-02-17 21:06:12.762570000 Z
+r42:
+  id: 42
+  hours_db_code: music-reference
+  name: Music & Arts (Wiener) Reference Services
+  comment: "Check main hours page for the <a href=\"http://hours.library.columbia.edu/?library=music\"
+    target=\"_top\">Music & Arts Library</a>\r\n<br /><b>Walk-in Reference hours</b>
+    are listed below. However, Reference assistance is available at most other times
+    on weekdays when the Library is open. Just ask for assistance at the circulation
+    desk in 701 Dodge, or call (212) 854-4711. If staff aren't immediately available,
+    we'll get back to you. You may also <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">chat</a> with a librarian online during certain hours -- or ask
+    us by <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\" target=\"_top\">email</a>
+    at any time!"
+  url: ''
+  created_at: 2015-02-17 21:06:12.987260000 Z
+  updated_at: 2015-02-17 21:06:12.987260000 Z
+r43:
+  id: 43
+  hours_db_code: ccoh
+  name: Columbia Center for Oral History
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=butler\"
+    target=\"_top\">Butler Library</a> The Oral History Collection is housed in the
+    Rare Book and Manuscript Library on the sixth floor of Butler Library. \r\n\r\nAll
+    transcripts are retrieved from the stacks by RBML staff. The retrieval schedule
+    is Tuesday-Friday 9:00am-4:45pm and Monday 9:00am-7:45pm."
+  url: http://library.columbia.edu/locations/ccoh.html
+  created_at: 2015-02-17 21:06:13.218248000 Z
+  updated_at: 2015-02-17 21:06:13.218248000 Z
+r44:
+  id: 44
+  hours_db_code: eastasian-rb
+  name: East Asian Library (Starr) Rare Books
+  comment: 'Check hours for <a href="http://hours.library.columbia.edu/?library=eastasian"
+    target="_top">Starr East Asian Library</a> Note: During summer and intersession
+    periods librarians will be available during scheduled hours on an on-call basis.
+    Please report to the front desk for service.'
+  url: http://library.columbia.edu/locations/eastasian/services/special_collections.html
+  created_at: 2015-02-17 21:06:13.225020000 Z
+  updated_at: 2015-02-17 21:06:13.225020000 Z
+r45:
+  id: 45
+  hours_db_code: eastasian-reference
+  name: East Asian Library (Starr) Reference Services
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=eastasian\"
+    target=\"_top\">Starr East Asian Library</a>\r\n<br />Visit us or call (212) 854-4319
+    during the hours below -- or <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">chat</a> with a librarian online -- or ask us by <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">email</a> any time! Note: Reference librarians will be available
+    during scheduled hours on an on-call basis. Please report to the front desk for
+    service."
+  url: ''
+  created_at: 2015-02-17 21:06:13.438628000 Z
+  updated_at: 2015-02-17 21:06:13.438628000 Z
+r46:
+  id: 46
+  hours_db_code: engineering-reference
+  name: Engineering Library (Monell) Reference Services
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=engineering\"
+    target=\"_top\">Engineering Library</a>\r\n<br />Visit us or call (212) 854-9087
+    or (212) 854-2976 during the hours below -- or <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">chat</a> with a librarian online -- or ask us by <a href=\"mailto:engineering@libraries.cul.columbia.edu\"
+    target=\"_top\">email</a> any time!"
+  url: ''
+  created_at: 2015-02-17 21:06:13.445728000 Z
+  updated_at: 2015-02-17 21:06:13.445728000 Z
+r47:
+  id: 47
+  hours_db_code: geologyref
+  name: Geology Reference
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=geology\"
+    target=\"_top\">Geology Library</a>\r\n<br />Visit us or call (212) 854-6767 during
+    the hours below -- or <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">chat</a> with a librarian online -- or ask us by <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">email</a> any time! Or schedule an <a href=\"https://library.columbia.edu/requestit/reference/consultation.html\"
+    target=\"_top\">  appointment</a> to talk with a reference Librarian"
+  url: ''
+  created_at: 2015-02-17 21:06:13.453803000 Z
+  updated_at: 2015-02-17 21:06:13.453803000 Z
+r48:
+  id: 48
+  hours_db_code: math-reference
+  name: Mathematics Library Reference Services
+  comment: "Check hours for <a href=\"http://hours.library.columbia.edu/?library=math\"
+    target=\"_top\">Mathematics Library</a>\r\n<br />Visit us or call (212) 854-4182
+    during the hours below -- or <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">chat</a> with a librarian online -- or ask us by <a href=\"http://www.columbia.edu/cgi-bin/cul/resolve?lweb0031\"
+    target=\"_top\">email</a> any time!"
+  url: ''
+  created_at: 2015-02-17 21:06:13.464539000 Z
+  updated_at: 2015-02-17 21:06:13.464539000 Z
+r49:
+  id: 49
+  hours_db_code: social-work-reference
+  name: Social Work Library Reference
+  comment: For <a href="http://hours.library.columbia.edu/?library=social-work" target="_top">Social
+    Work</a> hours
+  url: ''
+  created_at: 2015-02-17 21:06:13.472165000 Z
+  updated_at: 2015-02-17 21:06:13.472165000 Z
+r50:
+  id: 50
+  hours_db_code: business-studyhall
+  name: Business & Economics Study Hall
+  comment: "<strong>Phone number: 212-854-7804 </strong>\r\n<ul>\r\n<li><a href=\"http://library.columbia.edu/locations/business/refservices.html\"
+    target=\"_top\">Additional research help options</a></li>\r\n<li><a href=\"http://hours.library.columbia.edu/?library=business\"
+    target=\"_top\">Hours for the Watson Library</a></li></ul>"
+  url: ''
+  created_at: 2015-02-17 21:06:13.481348000 Z
+  updated_at: 2015-02-17 21:06:13.481348000 Z
