@@ -7,7 +7,7 @@
   -# - search_params = determine_search_params
   -# %body{:xonload => "$('.input_q').focus();"}
   -# %body{onload: "$('.search_q').focus();"}
-  %body{onload: "focusIfInViewport($('.search_q'));"}
+  %body{onload: "focusIfInViewport($('.search_q'));", "data-rails-env" => Rails.env}
     / Layout:  quicksearch
     - add_datasources(@active_source)
 

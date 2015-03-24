@@ -11,5 +11,5 @@
 
     = yield(:jstemplates)
 
-  %body.blank_layout
+  %body.blank_layout{"data-rails-env" => Rails.env}
     = yield
