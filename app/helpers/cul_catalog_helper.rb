@@ -162,4 +162,8 @@ module CulCatalogHelper
     @active_source ? "#{@active_source.split('_').map {|w| w.camelize}.join(" ")} Link" : 'Outbound Link'
   end
 
+  def ga_category_for_item_detail
+    @active_source ? "#{@active_source.split('_').map {|w| w.camelize}.join(" ")} Item Detail" : 'Item Detail'
+  end
+
 end

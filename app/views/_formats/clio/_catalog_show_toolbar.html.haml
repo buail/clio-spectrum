@@ -4,7 +4,7 @@
 - clio_id = h(document["clio_id_display"].to_s)
 - id = document.get("id")
 
-%nav#show_toolbar.navbar.navbar-default
+%nav#show_toolbar.navbar.navbar-default{:data => {'ga-category' => "#{ga_category_for_item_detail}", 'ga-action' => "Toolbar Click"}}
 
   .container-fluid
 
@@ -48,7 +48,7 @@
 
 
 
-    #show-toolbar-collapse.collapse.navbar-collapse
+    #show-toolbar-collapse.collapse.navbar-collapse.dropdown-link
   
       %ul.nav.navbar-nav
         %li=link_to "Print", "javascript:print()"

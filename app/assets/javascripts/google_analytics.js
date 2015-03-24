@@ -31,9 +31,11 @@ $(document).ready(function() {
 
   $(document).on('click', 'a', function(event) {
 
-    if (this.hostname && this.hostname === location.hostname){
-      if (!($(this).hasClass('dropdown-link'))){
-        return;
+    if (!($(this).closest('nav').attr('id') == 'show_toolbar')){
+      if (this.hostname && this.hostname === location.hostname){
+        if (!($(this).hasClass('dropdown-link'))){
+          return;
+        }
       }
     }
 
@@ -55,9 +57,10 @@ $(document).ready(function() {
 
     // Offsite links will open a new window unless it is a download link
 
-    //if (!($(this).hasClass('dropdown-link'))){
-    if ((this.hostname && this.hostname !== location.hostname) && (!($(this).hasClass('download')))){
-      open_new_window = true;
+    if (!($(this).closest('ul').hasClass('dropdown-link'))){
+      if ((this.hostname && this.hostname !== location.hostname) && (!($(this).hasClass('download')))){
+        open_new_window = true;
+      }
     }
 
     if (open_new_window){
